@@ -1,44 +1,42 @@
-{
-  "participants": {
-    "Shan": {
-      "password": "xY7pQ9kL",
-      "theme": "Something with Sounds 🔊"
-    },
-    "Ayessa": {
-      "password": "mN4vT8wR",
-      "theme": "Something Funny 😂"
-    },
-    "Allen": {
-      "password": "bC2eH5jU",
-      "theme": "Something That Smells Good 🌸"
-    },
-    "Princess": {
-      "password": "zA6sD1fG",
-      "theme": "Something for Work/Study 💻"
-    },
-    "Renzo": {
-      "password": "pL9oI3yK",
-      "theme": "Something Small but Meaningful 💫"
-    },
-    "Yvanne": {
-      "password": "qW5rE7tY",
-      "theme": "Something fluffy ☁️"
-    },
-    "Judd": {
-      "password": "uH8iO2pA",
-      "theme": "Something That Reminds You of the Group ❤️"
-    },
-    "Asu": {
-      "password": "sD4fG6hJ",
-      "theme": "Something Colorful 🌈"
-    },
-    "Erika": {
-      "password": "kL1zX9cV",
-      "theme": "Something Random 🎲"
-    },
-    "Kiana": {
-      "password": "nM3bV7nB",
-      "theme": "Something Cute 🧸"
-    }
+// {
+  "Shan": {
+    "password": "aB3kL9mN",
+    "theme": "Something with Sound 🔊"
+  },
+  "Ayessa": {
+    "password": "xY7pQ2vR",
+    "theme": "Something Fluffy ☁️"
+  },
+  "Allen": {
+    "password": "cD5wE8tU",
+    "theme": "Something Funny 😂"
+  },
+  "Princess": {
+    "password": "fG1hJ4yI",
+    "theme": "Something Small but Meaningful 💫"
+  },
+  "Renzo": {
+    "password": "kL6nO0pA",
+    "theme": "Something Colorful 🌈"
+  },
+  "Yvanne": {
+    "password": "sT9uV3wX",
+    "theme": "Something That Smells Good 🌸"
+  },
+  "Judd": {
+    "password": "zB2cD5eF",
+    "theme": "Something Random 🎲"
+  },
+  "Asu": {
+    "password": "gH7iJ1kL",
+    "theme": "Something Cute 🧸"
+  },
+  "Erika": {
+    "password": "mN4oP6qR",
+    "theme": "Something That Reminds You of the Group ❤️"
+  },
+  "Kiana": {
+    "password": "sT8uV0wY",
+    "theme": "Something for Work/Study 💻"
   }
 }
