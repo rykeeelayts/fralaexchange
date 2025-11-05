@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "created": "2025-11-05T06:42:09.913Z",
+    "note": "encrypted assignments"
+  },
+  "assignments": [
+    {
+      "name": "Shan",
+      "payload": {
+        "salt": "q3oPatv21fgSW4TuBdD5MA==",
+        "iv": "jF8aot+ywoIPzWIv",
+        "ct": "TMrhP+IQ1HhqOS3UBEspo23k+rSvD7th/GBZH/jd1jw7mdX7"
+      }
+    },
+    {
+      "name": "Ayessa",
+      "payload": {
+        "salt": "WoKN/OFjrdcuzKMkciuPSg==",
+        "iv": "Fa10xo6t1jZRuOF0",
+        "ct": "UlnhDB/0cn6i6iPWuAaJBef3EOAb50seraCRox0DUT6J0Q=="
+      }
+    },
+    {
+      "name": "Allen",
+      "payload": {
+        "salt": "ykM8POg1YJG4SrUim79f0A==",
+        "iv": "IdvVrdkh+hsM6jv+",
+        "ct": "JpvDMI6W6k1FOOnmG1ZwRGlu+N84q1qYNdI5pD/qmeE="
+      }
+    },
+    {
+      "name": "Princess",
+      "payload": {
+        "salt": "2e/5bpRUTUpNb620dciR1g==",
+        "iv": "cnXZxM33fbajKQXr",
+        "ct": "9iBuAjKoBHZ/HPDKAHYQTXeGQ240IUewEYCBdwgYLn5D5OBfgztJdQ=="
+      }
+    },
+    {
+      "name": "Renzo",
+      "payload": {
+        "salt": "1jYM8cYtz6MMZYtCAmpeqg==",
+        "iv": "ldJguItzcavKY2Nj",
+        "ct": "sZXyYBNvF0u4Ja8eYYOAq4TGBxf1l1Yf8B0RQcr+A1BHMcvji+c0nlT5DZehMTD81FtmQ3tFtA=="
+      }
+    },
+    {
+      "name": "Yvanne",
+      "payload": {
+        "salt": "jF1ALY5zBnjwf3qCmpWTnA==",
+        "iv": "d4yWMucBvBugwmBH",
+        "ct": "qgQci8VG/Gm00+CvmhCJx1KLm0xWffZ9Std+AmOX8R8="
+      }
+    },
+    {
+      "name": "Judd",
+      "payload": {
+        "salt": "ZXRPChWtRaUkurXSfaTpOQ==",
+        "iv": "QSNmDbwG+qlQx0VI",
+        "ct": "LOGGT2oa33GAPRnLRe85R6iT/Ucm4j8qpXmY1pDmWfXuzSaLrFj/6JyX"
+      }
+    },
+    {
+      "name": "Asu",
+      "payload": {
+        "salt": "xO2SjMmZOJVam8U+f+ju4w==",
+        "iv": "ISUu29NkqTyqAW9/",
+        "ct": "c6+9bNI6LETItH0S7d+jXLh/UNBTjmTI2/ygbz00svulj039OqSop7Kxu67qDQ=="
+      }
+    },
+    {
+      "name": "Erika",
+      "payload": {
+        "salt": "tU/E7EVpanUNx2cqTSqF7Q==",
+        "iv": "9OXbLTe0tVsgyNOa",
+        "ct": "3JWeZISjbZnIw9izufwB+OBCIRi/UCUlWCEbJaoPLQ=="
+      }
+    },
+    {
+      "name": "Kiana",
+      "payload": {
+        "salt": "kNIJzaVpZJVENaUhz2qAww==",
+        "iv": "3lwMqcgEWmes7x0Q",
+        "ct": "dvcjwQe0FaOc0PNcRQn6pOOOctAF55VJw8To73Q8"
+      }
+    }
+  ]
+}
